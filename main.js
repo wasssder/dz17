@@ -1,4 +1,4 @@
-const URL = ' http://localhost:3000/user1';
+const URL = ' http://localhost:3000/user';
 let user = [];
 let counter1;
 let counter2;	
